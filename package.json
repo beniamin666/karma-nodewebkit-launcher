@@ -1,6 +1,6 @@
 {
   "name": "karma-nodewebkit-launcher",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "A Karma plugin. Launcher for node-webkit.",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
     "async": "~0.2.10",
     "merge": "~1.1.2",
     "ncp": "~0.5.0",
-    "nw": "~0.18.5"
+    "nw": "~0.20.1"
   },
   "peerDependencies": {
     "karma": ">=0.9"
